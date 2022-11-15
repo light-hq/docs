@@ -1,0 +1,54 @@
+{
+  "name": "Light API",
+  "logo": {
+    "light": "/logo/light-logo.png",
+    "dark": "/logo/dark-logo.png"
+  },
+  "favicon": "/favicon.png",
+  "colors": {
+    "primary": "#0052CC",
+    "light": "#73CBF5",
+    "dark": "#0052CC",
+    "ultraLight": "#EFF9FF",
+    "ultraDark": "#1E49B1",
+    "background": {
+      "dark": "#01091D"
+    }
+  },
+  "topbarCtaButton": {
+    "name": "Get Early Access",
+    "url": "https://u7w8mnensdu.typeform.com/to/HbZv2idj?typeform-source=lightai.dev"
+  },
+  "topbarLinks": [
+    {
+      "name": "Contact Us",
+      "url": "mailto:hello@lightaibeta.com"
+    }
+  ],
+  "anchors": [
+    {
+      "name": "Home",
+      "icon": "house",
+      "url": "https://lightaibeta.com/"
+    },
+    {
+      "name": "Contact Us",
+      "icon": "envelope",
+      "url": "mailto:support@lightapi.com"
+    }
+  ],
+  "navigation": [
+    {
+      "group": "Guides",
+      "pages": ["introduction", "what-is-an-api"]
+    }
+  ],
+  "footerSocials": {
+    "twitter": "https://twitter.com/lightai",
+    "website": "https://lightaibeta.com/"
+  },
+  "classes": {
+    "anchors": "group-hover:bg-gradient-to-tr from-[#73CBF5] to-[#0052CC]",
+    "activeAnchors": "bg-gradient-to-tr"
+  }
+}
